@@ -121,12 +121,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
-
-- GitHub API for providing repository data
-- QRCode.js library for QR code generation
-- Radix UI for accessible components
-- Tailwind CSS for styling utilities
 
 ## 📧 Contact
 
@@ -134,4 +128,4 @@ If you have any questions or suggestions, please feel free to reach out!
 
 ---
 
-**Made with ❤️ for the GitHub community**
+**Made with ❤️ for the GitHub community by Khushal Mishra**
