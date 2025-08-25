@@ -193,7 +193,7 @@ export default function Index() {
             GitHub QR Generator
           </h1>
           <p className="text-lg text-purple-200 max-w-2xl mx-auto">
-            Generate beautiful QR codes for your GitHub repositories with your avatar in the center
+            QR Code Genrator based on GITLENS.
           </p>
         </div>
 
