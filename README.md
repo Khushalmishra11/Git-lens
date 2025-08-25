@@ -134,4 +134,4 @@ If you have any questions or suggestions, please feel free to reach out!
 
 ---
 
-**Made with ❤️ for the GitHub community**
+**Made with ❤️ for the GitHub community by Khushal Mishra**
