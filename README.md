@@ -63,50 +63,6 @@ The built files will be in the `dist` directory, ready for deployment.
 4. **Generate QR Code**: QR code appears instantly with the user's avatar in the center
 5. **Download**: Click "Download QR" to save the QR code as a PNG image
 
-## 🎨 Customization
-
-### Modify Colors
-Edit `client/global.css` to change the color scheme:
-
-```css
-:root {
-  --background: 0 0% 100%;
-  --foreground: 222.2 84% 4.9%;
-  /* Add your custom colors */
-}
-```
-
-### Update Styling
-Modify `tailwind.config.ts` to customize the design:
-
-```typescript
-export default {
-  theme: {
-    extend: {
-      colors: {
-        // Your custom colors
-      },
-    },
-  },
-}
-```
-
-## 🌐 Deployment
-
-### Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy!
-
-### Vercel
-1. Import your GitHub repository to Vercel
-2. Framework preset: Vite
-3. Deploy!
-
-### Static Hosting
-After running `npm run build`, upload the `dist` folder to any static hosting service.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
